@@ -14,7 +14,7 @@ To run the application locally, follow these steps:
 Clone the repository:
 
 
-git clone [ https://github.com/yourusername/movie-project.git](https://github.com/diyardemir47/movie-app)
+git clone https://github.com/diyardemir47/movie-app
 Navigate to the project directory:
 
 

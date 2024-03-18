@@ -1,4 +1,6 @@
 Movie Project
+![saaaa](https://github.com/diyardemir47/movie-app/assets/99801830/1a7d3ee1-434c-4a39-96f9-b271ecc43ba0)
+
 Overview
 This project is a movie application developed in JavaScript. It utilizes an API to fetch movies and displays them in a list format.
 

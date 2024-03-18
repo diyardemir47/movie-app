@@ -13,23 +13,18 @@ To run the application locally, follow these steps:
 
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/movie-project.git
+
+git clone [ https://github.com/yourusername/movie-project.git](https://github.com/diyardemir47/movie-app)
 Navigate to the project directory:
 
-bash
-Copy code
+
 cd movie-project
 Install dependencies:
 
-bash
-Copy code
 npm install
 Start the development server:
 
-bash
-Copy code
+
 npm start
 Open your web browser and go to http://localhost:3000 to view the application.
 
